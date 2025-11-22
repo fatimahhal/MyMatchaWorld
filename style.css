@@ -80,7 +80,7 @@ p {
     border-radius: 8px;
 }
 
-.recipe-text {
+#recipe-text {
     position: relative;
     padding: 20px;
     color: #fff;
