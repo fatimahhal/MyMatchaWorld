@@ -25,7 +25,8 @@ li {
 img {
   margin: 10px;
   width: 300px;
-  height: auto;
+  height: 300px;
+  objective: fit;
 }
 p {
   color: white;
