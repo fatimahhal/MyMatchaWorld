@@ -116,8 +116,28 @@ p {
     border-radius: 10px;
     z-index: 0;
 }
-#c1 { background-image: url('cinnamon_matcha2.jpg'); }
-#d2 { background-image: url('double_matcha2.jpg'); }
-#v3 { background-image: url('vanilla_foam_matcha2.jpg'); }
-#s4 { background-image: url('strawberry_foam_matcha2.jpg'); }
-#m5 { background-image: url('mango_matcha2.jpg'); }
+#c1 {
+  background-image: url('cinnamon_matcha2.jpg')
+  background-width: 300px;
+  background-height: 400px;
+    }
+#d2 {
+  background-image: url('double_matcha2.jpg'); 
+  background-width: 300px;
+  background-height: 400px;
+    }
+#v3 {
+  background-image: url('vanilla_foam_matcha2.jpg');
+  background-width: 300px;
+  background-height: 400px;
+}
+#s4 {
+    background-image: url('strawberry_foam_matcha2.jpg'); 
+    background-width: 300px;
+    background-height: 400px;
+    }
+#m5 { 
+  background-image: url('mango_matcha2.jpg');
+  background-width: 300px;
+  background-height: 400px;
+}
